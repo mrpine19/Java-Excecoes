@@ -1,6 +1,6 @@
 package Fixacao.model.entities;
 
-import Exemplo.model.exceptions.DomainException;
+import Fixacao.model.exceptions.DomainException;
 
 public class Account {
     private Integer number;
