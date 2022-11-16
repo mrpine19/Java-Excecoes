@@ -1,7 +1,7 @@
 package Fixacao.application;
 
 import Exemplo.model.exceptions.DomainException;
-import Fixacao.model.Account;
+import Fixacao.model.entities.Account;
 
 import java.util.Locale;
 import java.util.Scanner;

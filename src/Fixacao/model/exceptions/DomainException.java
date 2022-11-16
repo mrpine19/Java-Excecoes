@@ -1,4 +1,4 @@
-package Fixacao.exceptions;
+package Fixacao.model.exceptions;
 
 public class DomainException extends Exception{
 

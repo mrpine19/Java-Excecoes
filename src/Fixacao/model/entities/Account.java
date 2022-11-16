@@ -1,4 +1,4 @@
-package Fixacao.model;
+package Fixacao.model.entities;
 
 import Exemplo.model.exceptions.DomainException;
 
